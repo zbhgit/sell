@@ -1,0 +1,8 @@
+// 编译成ES5
+// presets 预设  草案
+// plugins
+{
+  "presets": ["es2015", "stage-2"],
+  "plugins": ["transform-runtime"],
+  "comments": false
+}
